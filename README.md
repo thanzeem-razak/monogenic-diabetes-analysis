@@ -113,4 +113,4 @@ Python · Pandas · NumPy · Scikit-learn · SciPy · Matplotlib · Seaborn · M
 
 ## Report
 
-Full write-up available in `/report/monogenic_diabetes_report.pdf`
+Full write-up available in `/data/Project report.pdf`
